@@ -1,4 +1,4 @@
-# screeners
+# Screener
 Helps you screen stocks
 
 ## Chartink Screener
@@ -14,10 +14,12 @@ Once Python is installed, you can install the required packages by running the f
 `pip install -r requirements.txt`
 
 ## Usage
-To run the project, navigate to the project directory in your terminal and run the following command:
-
-`python chartink.py`
-Follow the instructions provided in the program to use it.
+1. Download the **requirements.txt** and **chartink.py** files in a folder
+1. Open the terminal in the project directory and run the following command: `python chartink.py`
+2. Ensure that the Chartink Watchlist File is present in the same folder
+3. Enter the name of the file downloaded from [Chartink](https://chartink.com/screener/momentum-stocks-3112195)
+4. Press Enter.
+5. Tradingview Watchlist file will be generated in the same folder
 
 ## Contact
 If you have any questions or feedback, you can contact me on [Twitter](https://twitter.com/TheLogicalSwing)
