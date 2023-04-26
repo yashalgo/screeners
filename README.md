@@ -19,5 +19,5 @@ To run the project, navigate to the project directory in your terminal and run t
 `python chartink.py`
 Follow the instructions provided in the program to use it.
 
-##Contact
+## Contact
 If you have any questions or feedback, you can contact me on [Twitter](https://twitter.com/TheLogicalSwing)
