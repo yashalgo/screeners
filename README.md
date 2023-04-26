@@ -21,5 +21,8 @@ Once Python is installed, you can install the required packages by running the f
 4. Press Enter.
 5. Tradingview Watchlist file will be generated in the same folder
 
+[Video Guide](https://user-images.githubusercontent.com/124577936/234533962-16ae5c30-79c0-4393-a2e5-730044d0b590.mp4)
+
+
 ## Contact
 If you have any questions or feedback, you can contact me on [Twitter](https://twitter.com/TheLogicalSwing)
